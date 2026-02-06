@@ -48,3 +48,22 @@
 .livingroom__item--new {
   color: rgb(0, 128, 0);
 }
+
+.bathroom {
+  border: 2px solid rgb(0, 0, 0);
+  padding: 15px;
+  background-color: rgb(255, 255, 255);
+}
+
+.bathroom__item {
+  font-size: large;
+  color: rgb(0, 0, 255);
+}
+
+.bathroom__item--off-service {
+  border: 2px solid rgb(0, 0, 0);
+  padding: 15px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(255, 0, 0);
+  font-size: xx-large;
+}

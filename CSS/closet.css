@@ -4,6 +4,17 @@
   background-color: rgb(165, 42, 42);
 }
 
+.closet__shirts {
+  margin-top: 10px;
+  background-color: rgb(240, 248, 255);
+}
+
+.closet__shirts-item {
+  color: rgb(234, 9, 12);
+  font-size: xx-large;
+  text-decoration: line-through;
+}
+
 .closet__shoes {
   margin-top: 10px;
   background-color: rgb(185, 154, 154);
