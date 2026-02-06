@@ -1,0 +1,23 @@
+.main-title {
+  text-align: center;
+  font-size: xx-large;
+}
+
+.second-title {
+  text-align: center;
+  font-size: x-large;
+}
+
+.third-title {
+  text-align: center;
+  font-size: larger;
+}
+
+.fourth-title {
+  font-size: large;
+  text-decoration: underline;
+}
+
+.list__link {
+  font-size: large;
+}

@@ -1,0 +1,50 @@
+.house {
+  border: 2px solid rgb(0, 0, 0);
+  padding: 15px;
+  background-color: rgb(250, 128, 114);
+}
+
+.kitchen {
+  border: 2px solid rgb(0, 0, 0);
+  padding: 15px;
+  background-color: rgb(240, 248, 255);
+}
+
+.kitchen__item {
+  font-size: large;
+  color: rgb(0, 0, 255);
+}
+
+.kitchen__item--broken {
+  text-decoration: line-through;
+}
+
+.bedroom {
+  border: 2px solid rgb(0, 0, 0);
+  padding: 15px;
+  background-color: rgb(169, 169, 169);
+}
+
+.bedroom__item {
+  font-size: large;
+  color: rgb(0, 0, 0);
+}
+
+.bedroom__item--big {
+  font-size: xx-large;
+}
+
+.livingroom {
+  border: 2px solid rgb(0, 0, 0);
+  padding: 15px;
+  background-color: rgb(173, 216, 230);
+}
+
+.livingroom__item {
+  font-size: large;
+  color: rgb(255, 0, 0);
+}
+
+.livingroom__item--new {
+  color: rgb(0, 128, 0);
+}
