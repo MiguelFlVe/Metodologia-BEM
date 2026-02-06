@@ -1,0 +1,14 @@
+Menú principal:
+Bloque: .main-menu
+Elementos: .main-menu__button
+Modificadores: .main-menu--collapsed
+
+Botón con texto y un ícono:
+Bloque: .button
+Elementos: .button__icon, .button__text
+Modificadores: .button--disabled, .button--primary
+
+Tarjeta de producto con título, descripción y un estado especial cuando está en oferta:
+Bloque: .card
+Elementos: .card__title, .card__desc
+Modificadores: .card--sale
